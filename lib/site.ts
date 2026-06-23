@@ -15,6 +15,13 @@ export const brand = {
   address: "14 Marine Lane, Downtown",
 };
 
+export const heroSlides = [
+  { src: px(4218027, 1600), label: "Open Mic" },
+  { src: px(26447525, 1600), label: "Live Nights" },
+  { src: px(18368848, 1600), label: "Jam Sessions" },
+  { src: px(30287465, 1600), label: "Auto Shows" },
+];
+
 export const marqueeWords = [
   "Open Mic",
   "Live Jamming",
